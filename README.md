@@ -1,3 +1,4 @@
+<h3>About me</h3>
 <p align="left">Hello 👋! I am Benedict. An aspiring Full-Stack Developer and former Mechanical Engineer with Project Management background.</p>
 
 <p align="left">My tech stack mainly revolves around JavaScript.</p>
@@ -31,6 +32,18 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nanometre&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-        alt="nanometre"/></p>
+<h3>Portfolio</h3>
+<p align="left">Brazilian Jiu Jitsu (BJJ) gears and apparels e-commerce store (2022)</p>
+- Frontend e-commerce web application built using React<br/>
+- Backend admin web application and framework build using Express, HBS, Bookshelf ORM, and db-migrate<br/>
+- [Github Repo](https://github.com/nanometre/bjj-ecommerce-tgc-proj3-react) | [Live Link](https://grapple-gears.netlify.app/)<br/>
+
+<p align="left">Pet adoption web application (2022)</p>
+- Frontend pet adoption web application to list animals up for adoption/fostering built using React<br/>
+- Backend RESTful API for support the frontend built using Express<br/>
+- [Github Repo](https://github.com/nanometre/pet-adoption-tgc-proj2-react) | [Live Link](https://paw-pals.netlify.app/)<br/>
+
+<p align="left">Singapore's Historic Site Finder (2022)</p>
+- Frontend web application for exploring heritage sites in Singapore<br/>
+- Interactive map made using Leaflet and data obtained for public API<br/>
+- [Github Repo](https://github.com/nanometre/historic-site-finder-tgc-proj1) | [Live Link]([https://paw-pals.netlify.app/](https://nanometre.github.io/historic-site-finder-tgc-proj1/#))<br/>
