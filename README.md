@@ -34,16 +34,22 @@
 
 <h3>Portfolio</h3>
 <p align="left">Brazilian Jiu Jitsu (BJJ) gears and apparels e-commerce store (2022)</p>
+<p>
 - Frontend e-commerce web application built using React<br/>
 - Backend admin web application and framework build using Express, HBS, Bookshelf ORM, and db-migrate<br/>
-- [Github Repo](https://github.com/nanometre/bjj-ecommerce-tgc-proj3-react) | [Live Link](https://grapple-gears.netlify.app/)<br/>
+- <a href="https://github.com/nanometre/bjj-ecommerce-tgc-proj3-react">Github Repo</a> | <a href="https://grapple-gears.netlify.app/">Live Link</a>
+<p/>
 
 <p align="left">Pet adoption web application (2022)</p>
+<p>
 - Frontend pet adoption web application to list animals up for adoption/fostering built using React<br/>
 - Backend RESTful API for support the frontend built using Express<br/>
-- [Github Repo](https://github.com/nanometre/pet-adoption-tgc-proj2-react) | [Live Link](https://paw-pals.netlify.app/)<br/>
+- <a href="https://github.com/nanometre/pet-adoption-tgc-proj2-react">Github Repo</a> | <a href="https://paw-pals.netlify.app/">Live Link</a>
+<p/>
 
 <p align="left">Singapore's Historic Site Finder (2022)</p>
+<p>
 - Frontend web application for exploring heritage sites in Singapore<br/>
 - Interactive map made using Leaflet and data obtained for public API<br/>
-- [Github Repo](https://github.com/nanometre/historic-site-finder-tgc-proj1) | [Live Link]([https://paw-pals.netlify.app/](https://nanometre.github.io/historic-site-finder-tgc-proj1/#))<br/>
+- <a href="https://github.com/nanometre/historic-site-finder-tgc-proj1">Github Repo</a> | <a href="https://nanometre.github.io/historic-site-finder-tgc-proj1/#">Live Link</a>
+<p/>
