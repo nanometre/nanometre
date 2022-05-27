@@ -56,7 +56,7 @@
 
 <p align="left">Cinder: Tinder for Cats (2022 - WIP)</p>
 <p>
-- Frontend web application built using React and Tailwind CSS
-- A fun project to try out Tailwind CSS
+- Frontend web application built using React and Tailwind CSS<br/>
+- A fun project to try out Tailwind CSS<br/>
 - <a href="https://github.com/nanometre/cinder-for-cats">Github Repo</a>
 </p>
