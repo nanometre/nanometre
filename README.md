@@ -53,3 +53,10 @@
 - Interactive map made using Leaflet and data obtained for public API<br/>
 - <a href="https://github.com/nanometre/historic-site-finder-tgc-proj1">Github Repo</a> | <a href="https://nanometre.github.io/historic-site-finder-tgc-proj1/#">Live Link</a>
 <p/>
+
+<p align="left">Cinder: Tinder for Cats (2022 - WIP)</p>
+<p>
+- Frontend web application built using React and Tailwind CSS
+- A fun project to try out Tailwind CSS
+- <a href="https://github.com/nanometre/cinder-for-cats">Github Repo</a>
+</p>
