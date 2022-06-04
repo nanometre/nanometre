@@ -58,5 +58,5 @@
 <p>
 - Frontend web application built using React and Tailwind CSS<br/>
 - A fun project to try out Tailwind CSS<br/>
-- <a href="https://github.com/nanometre/cinder-for-cats">Github Repo</a>
+- <a href="https://github.com/nanometre/cinder-for-cats">Github Repo</a> | <a href="https://cinder4cats.netlify.app/">Live Link</a>
 </p>
