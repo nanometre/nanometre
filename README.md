@@ -32,7 +32,13 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
 
-<h3>Portfolio</h3>
+<h3>Projects</h3>
+<p align="left">Telegram Recommendation Bot (2023 - WIP)</p>
+<p>
+- Telegram bot built using grammY framework. Inspired by an inside joke amongst friends<br/>
+- Persistent data storage using MongoDB<br/>
+- <a href="https://github.com/nanometre/telegram-rcmd-bot-grammy">Github Repo</a>
+
 <p align="left">Brazilian Jiu Jitsu (BJJ) gears and apparels e-commerce store (2022)</p>
 <p>
 - Frontend e-commerce web application built using React<br/>
