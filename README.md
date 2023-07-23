@@ -39,13 +39,6 @@
 - Persistent data storage using MongoDB<br/>
 - <a href="https://github.com/nanometre/telegram-rcmd-bot-grammy">Github Repo</a>
 
-<p align="left">Brazilian Jiu Jitsu (BJJ) gears and apparels e-commerce store (2022)</p>
-<p>
-- Frontend e-commerce web application built using React<br/>
-- Backend admin web application and framework build using Express, HBS, Bookshelf ORM, and db-migrate<br/>
-- <a href="https://github.com/nanometre/bjj-ecommerce-tgc-proj3-react">Github Repo</a> | <a href="https://grapple-gears.netlify.app/">Live Link</a>
-<p/>
-
 <p align="left">Pet adoption web application (2022)</p>
 <p>
 - Frontend pet adoption web application to list animals up for adoption/fostering built using React<br/>
@@ -66,3 +59,10 @@
 - A fun project to try out Tailwind CSS<br/>
 - <a href="https://github.com/nanometre/cinder-for-cats">Github Repo</a> | <a href="https://cinder4cats.netlify.app/">Live Link</a>
 </p>
+
+<p align="left">Brazilian Jiu Jitsu (BJJ) gears and apparels e-commerce store (2022) [Web application not functioning]</p>
+<p>
+- Frontend e-commerce web application built using React<br/>
+- Backend admin web application and framework build using Express, HBS, Bookshelf ORM, and db-migrate<br/>
+- <a href="https://github.com/nanometre/bjj-ecommerce-tgc-proj3-react">Github Repo</a> | <a href="https://grapple-gears.netlify.app/">Live Link</a>
+<p/>
